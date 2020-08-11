@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [zyuanlee!](https://pandalzy.github.io) 👋
 
 <!--
 **Pandalzy/PandaLzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=Pandalzy&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalzy&layout=compact&theme=buefy)
