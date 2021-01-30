@@ -25,4 +25,4 @@
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
   
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=Pandalzy&show_icons=true&theme=buefy)
+<!--![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=Pandalzy&show_icons=true&theme=buefy)-->
