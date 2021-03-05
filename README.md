@@ -15,7 +15,6 @@
 
 - 🔭 I’m currently working on [research_sys](https://github.com/Pandalzy/research_sys)
 - 🌱 I’m currently learning SpringBoot
-- 📫 How to reach me: zyuanlee@cumt.edu.cn
 - 📚 Programming language: 
   ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
